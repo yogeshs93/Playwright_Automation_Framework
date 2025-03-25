@@ -1,0 +1,19 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="23.062097">
+<testsuite name="com.automation.playwright/HandlingWindows.spec.js" timestamp="2025-03-24T07:06:35.034Z" hostname="chromium" tests="2" failures="0" skipped="0" time="22.85" errors="0">
+<testcase name="Handle Pages/Windows" classname="com.automation.playwright/HandlingWindows.spec.js" time="10.442">
+<system-out>
+<![CDATA[No of pages created [33m2[39m
+
+[[ATTACHMENT|test-results/com.automation.playwright--04734-indows-Handle-Pages-Windows-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Handle Multiple Pages/Windows" classname="com.automation.playwright/HandlingWindows.spec.js" time="12.408">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/com.automation.playwright--46d92-ndle-Multiple-Pages-Windows-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

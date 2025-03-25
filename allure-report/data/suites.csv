@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9416","Handle Pages/Windows","chromium","Mon Mar 24 12:55:23 IST 2025","passed","Mon Mar 24 12:55:32 IST 2025","","com.automation.playwright/HandlingWindows.spec.js","",""
+"","11043","Handle Multiple Pages/Windows","chromium","Mon Mar 24 12:55:32 IST 2025","passed","Mon Mar 24 12:55:43 IST 2025","","com.automation.playwright/HandlingWindows.spec.js","",""

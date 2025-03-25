@@ -29,5 +29,11 @@ test.skip('test2',async({page})=>{
 //     expect(1).toBe(2);  //If both exp & actual is failed the test will pass
 // })
 
+test('test6',async({page})=>{
+    test.slow();
+    console.log('this is test6...');
+    await page.goto("https://demo-opencart.com/");
+})
+
 
 
